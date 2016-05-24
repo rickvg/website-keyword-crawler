@@ -6,7 +6,7 @@ Purposes:
 * Check what pages of your website are infected with a malicious script by known keywords
 * Check whether your website its script contains specific keywords
 
-The program is able to process 3 levels, which means it is capable of getting URLs from the script of the page you are scanning up to three levels.
+The program is able to process 3 levels, which means it is capable of getting URLs from the script of the page you are scanning - up to three levels.
 Compare it to the function of a spider.
 
 ## Usage
